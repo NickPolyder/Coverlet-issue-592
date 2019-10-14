@@ -1,0 +1,126 @@
+{
+  "CoverletTryout.dll": {
+    "E:\\Repos\\CoverletTryout\\CoverletTryout\\ClassThatUsesResource.cs": {
+      "CoverletTryout.ClassThatUsesResource": {
+        "System.String CoverletTryout.ClassThatUsesResource::GetResource()": {
+          "Lines": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "E:\\Repos\\CoverletTryout\\CoverletTryout\\ObsoleteClass.cs": {
+      "CoverletTryout.ObsoleteClass": {
+        "System.String CoverletTryout.ObsoleteClass::get_Property()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Void CoverletTryout.ObsoleteClass::Display()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "E:\\Repos\\CoverletTryout\\CoverletTryout\\ObsoleteMethod.cs": {
+      "CoverletTryout.ObsoleteMethod": {
+        "System.String CoverletTryout.ObsoleteMethod::get_Property()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Void CoverletTryout.ObsoleteMethod::ObsoleteDisplay()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "E:\\Repos\\CoverletTryout\\CoverletTryout\\Program.cs": {
+      "CoverletTryout.Program": {
+        "System.Void CoverletTryout.Program::Main(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "E:\\Repos\\CoverletTryout\\CoverletTryout\\Validation.Designer.cs": {
+      "CoverletTryout.Validation": {
+        "System.Resources.ResourceManager CoverletTryout.Validation::get_ResourceManager()": {
+          "Lines": {
+            "40": 2,
+            "41": 3,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 2,
+            "46": 2
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 11,
+              "EndOffset": 47,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Globalization.CultureInfo CoverletTryout.Validation::get_Culture()": {
+          "Lines": {
+            "55": 0,
+            "56": 0,
+            "57": 0
+          },
+          "Branches": []
+        },
+        "System.Void CoverletTryout.Validation::set_Culture(System.Globalization.CultureInfo)": {
+          "Lines": {
+            "58": 0,
+            "59": 0,
+            "60": 0
+          },
+          "Branches": []
+        },
+        "System.String CoverletTryout.Validation::get_TestingProperty()": {
+          "Lines": {
+            "67": 2,
+            "68": 2,
+            "69": 2
+          },
+          "Branches": []
+        },
+        "System.Void CoverletTryout.Validation::.ctor()": {
+          "Lines": {
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
